@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PrimeraClase2020SegundoCuatrimestreLogica;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,9 +18,7 @@ namespace PrimeraClase2020SegundoCuatrimestre
             Console.Write("Ingrese otro numero numero");
             string input2 = Console.ReadLine();
 
-            Calculadora calc = new Calculadora();
-
-            Console.Write("La suma es: " + calc.Sumar(input1, input2));
+            Console.Write("La suma es: " + Calculadora.Sumar(input1, input2));
             Console.ReadKey();
         }
     }
