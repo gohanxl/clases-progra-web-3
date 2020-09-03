@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraClase2020SegundoCuat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraClase2020SegundoCuatrimestreWinForm", "PrimeraClase2020SegundoCuatrimestreWinForm\PrimeraClase2020SegundoCuatrimestreWinForm.csproj", "{35B13176-E6D3-4F69-B9E5-253BEDD7F8B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraClase2020SegundoCuatrimestreWeb", "PrimeraClase2020SegundoCuatrimestreWeb\PrimeraClase2020SegundoCuatrimestreWeb.csproj", "{E1B5A951-DEE6-4995-9B58-350FC988555A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{35B13176-E6D3-4F69-B9E5-253BEDD7F8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B13176-E6D3-4F69-B9E5-253BEDD7F8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B13176-E6D3-4F69-B9E5-253BEDD7F8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B5A951-DEE6-4995-9B58-350FC988555A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B5A951-DEE6-4995-9B58-350FC988555A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B5A951-DEE6-4995-9B58-350FC988555A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B5A951-DEE6-4995-9B58-350FC988555A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
